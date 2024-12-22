@@ -1,7 +1,7 @@
 name: LobbyFlyPlugin
 version: 2.0.0
 main: com.github.Shin_Ideal.LobbyFlyPlugin.LobbyFlyPlugin
-api-version: 1.8
+api-version: 1.13
 authors: [ Shin ]
 
 commands:
